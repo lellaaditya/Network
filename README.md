@@ -1,1 +1,5 @@
 # Network
+
+```
+https://www.geeksforgeeks.org/open-systems-interconnection-model-osi/
+```
